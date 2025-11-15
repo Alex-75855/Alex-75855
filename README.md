@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## I'm Oleksandr but you can call me Alex!
-## I am a first year student at the University of British Columbia, excited to learn computer science and work on exiting projects.
+I'm Oleksandr but you can call me Alex!
+I am a first year student at the University of British Columbia, excited to learn computer science and work on exciting projects.
 <!--
 **Alex-75855/Alex-75855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
